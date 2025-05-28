@@ -3,10 +3,6 @@
 contact me to if you have any challenges you need solved or if you have ideas you want 
 collaboration on.
 ---
-## 🛠️ Technological Skills
-- **Languages**: Python, Java, SQL, R, MATLAB, AIMMS, EViews
-- **ML/AI**: PyTorch, TensorFlow, Keras, Scikit-Learn, OpenCV  
----
 ## 📊 A few AI/ML projects:
 
 ### 🤖 Reinforcement Learning
