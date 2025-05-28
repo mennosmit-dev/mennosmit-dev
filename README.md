@@ -33,6 +33,7 @@ Implemented several reinforcement learning architectures, achieving a total scor
 - Led an in-depth academic discussion on a paper that utilised web scraping of images and text from
 house rental websites and utilised NLP and CV to extract features from them, which were used in a
 random forest approach to predict housing prices Rotterdam.
+
 ---
 
 
