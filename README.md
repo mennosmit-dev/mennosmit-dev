@@ -7,8 +7,8 @@ collaboration on.
 
 ### 🤖 Reinforcement Learning
 Implemented several reinforcement learning architectures, achieving a total score improvement of **~400%** in DQN Cartpole v1 compared to the benchmark model established in Q-learning Agent for CartPole.
-- [Q-learning Agent for CartPole](https://github.com/mennosmit-dev/AI-Engineer-Certificate/blob/main/Course_3_Deep_Learning_with_Keras_and_TensorFlow/q_learning_agent_cartpole.py)  
-- [DQN CartPole v1](https://github.com/mennosmit-dev/AI-Engineer-Certificate/blob/main/Course_3_Deep_Learning_with_Keras_and_TensorFlow/dqn_cartpolev1.py)
+- [Q-learning Agent for CartPole](https://github.com/mennosmit-dev/AI-Engineer-Certificate/blob/main/03_Deep_Learning_with_Keras_and_TensorFlow/q_learning_agent_cartpole.py)  
+- [DQN CartPole v1](https://github.com/mennosmit-dev/AI-Engineer-Certificate/blob/main/03_Deep_Learning_with_Keras_and_TensorFlow/dqn_cartpolev1.py)
 
 
 ### 🖼️ Computer Vision
