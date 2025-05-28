@@ -11,7 +11,8 @@ collaboration on.
 
 ### 🤖 Reinforcement Learning
 [Implemented several reinforcement architectures, increased total score by **~400%** compared to the benchmark model.]
-(see: , )
+(see: https://github.com/mennosmit-dev/AI-Engineer-Certificate/blob/main/Course_3_Deep_Learning_with_Keras_and_TensorFlow/q_learning_agent_cartpole.py, 
+)
 
 ### 🖼️ Computer Vision
 - Aviation damage detection (MSE: 25.89)  
