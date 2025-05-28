@@ -6,7 +6,7 @@ collaboration on.
 ## 📊 A few interesting AI/ML projects:
 Over the years I have worked on many projects. I have included a few relevant ones here, but feel 
 free to browse the repositories if you are interested in the details. For each file I wrote a 
-dedicated README but if you have any questions don't hesitate to reach out.
+dedicated README, but if you have any questions don't hesitate to reach out.
 
 ### 🤖 Reinforcement Learning
 Implemented several reinforcement learning architectures, achieving a total score improvement of **~400%** in DQN Cartpole v1 compared to the benchmark model established in Q-learning Agent for CartPole.
