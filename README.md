@@ -3,7 +3,7 @@
 contact me to if you have any challenges you need solved or if you have ideas you want 
 collaboration on.
 ---
-## 🛠️ Skills & Tech
+## 🛠️ Technological Skills
 - **Languages**: Python, Java, SQL, R, MATLAB, 
 - **ML/AI**: PyTorch, TensorFlow, Keras, Scikit-Learn, OpenCV  
 ---
