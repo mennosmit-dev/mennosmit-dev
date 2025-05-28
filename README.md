@@ -29,7 +29,6 @@ Implemented several reinforcement learning architectures, achieving a total scor
 - Income prediction using Random Forest  
 - Custom batch gradient descent for parameter optimization
 - 
--many more 
 ---
 
 
