@@ -1,19 +1,13 @@
 # 👋 Hi, I'm Menno Smit
-
+---
 I am an enthousiastic AI engineer on a mission to make the world more efficient. Feel free to 
 contact me to if you have any challenges you need solved or if you have ideas you want 
 collaboration on.
 ---
-
 ## 🛠️ Skills & Tech
-
 - **Languages**: Python, Java, SQL, R, MATLAB, 
 - **ML/AI**: PyTorch, TensorFlow, Keras, Scikit-Learn, OpenCV  
-- **Knowledge Base**: has an in-depth knowledge base of AI applications and architectures
-- **Other Tools**: Git, Spark, LangChain, AIMMS, EViews  
-- **Soft Skills**: Communicative, flexible, responsible 
 ---
-
 ## 📊 A few AI/ML projects:
 
 ### 🤖 Reinforcement Learning
