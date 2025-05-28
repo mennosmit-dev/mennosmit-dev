@@ -29,7 +29,7 @@ Implemented several reinforcement learning architectures, achieving a total scor
 - Income prediction using Random Forest  
 - Custom batch gradient descent for parameter optimization
 
-### 🏠 Utilising CNN and CV to forest housing prices 
+#### 🏠 Utilising CNN and CV to forest housing prices 
 - Led an in-depth academic discussion on a paper that utilised web scraping of images and text from
 house rental websites and utilised NLP and CV to extract features from them, which were used in a
 random forest approach to predict housing prices in Rotterdam [(Discussion_Paper)](https://github.com/mennosmit-dev/Econometric_Modelling/blob/main/discussion_paper.pdf).
