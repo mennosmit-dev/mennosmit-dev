@@ -12,7 +12,7 @@ dedicated README file, but if you have any questions or suggestions don't hesita
 Implemented several reinforcement learning architectures, achieving a total score improvement of **~400%** in DQN Cartpole v1 compared to the benchmark model established in Q-learning Agent for CartPole.
 - [Q-learning Agent for CartPole](https://github.com/mennosmit-dev/AI-Engineer-Certificate/blob/main/03_Deep_Learning_with_Keras_and_TensorFlow/q_learning_agent_cartpole.py)  
 - [DQN CartPole v1](https://github.com/mennosmit-dev/AI-Engineer-Certificate/blob/main/03_Deep_Learning_with_Keras_and_TensorFlow/dqn_cartpolev1.py)
-
+- (For anyone nterested in PPO, I found this interesting) [(RL insight paper)](https://github.com/mennosmit-dev/AI_engineer///.pdf).
 ### 🖼️ Computer Vision
 - Aviation damage detection (MSE: 25.89)  
 - Caption generation from image features  
