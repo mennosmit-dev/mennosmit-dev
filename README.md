@@ -4,7 +4,7 @@ contact me to if you have any challenges you need solved or if you have ideas yo
 collaboration on.
 ---
 ## 📊 A few interesting AI/ML projects:
-Over the years I have worked on many projects. I have included a few relevant ones here, but feel 
+Over the years I have worked on many projects (150+). I have included a few relevant ones here, but feel 
 free to browse the repositories if you are interested in the details. For each file I wrote a 
 dedicated README file, but if you have any questions or suggestions don't hesitate to reach out.
 
