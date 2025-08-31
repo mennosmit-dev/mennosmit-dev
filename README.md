@@ -25,6 +25,9 @@ Implemented several reinforcement learning architectures, achieving a total scor
 - Designed modular agents for strategic environments  
 - Worked with LLMs and transformer-based pipelines
 
+### Robotics 
+...
+
 ### 📈 Machine Learning
 - Egalitarian Lasso for group forecasting  
 - Income prediction using Random Forest  
