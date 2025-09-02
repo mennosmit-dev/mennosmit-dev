@@ -51,8 +51,8 @@ From custom-built GPTs and BERT models to LangChain RAG systems powering practic
 ### 🤖 Robotics
 Explored robotics-style control tasks via reinforcement learning, applying algorithms to dynamic environments.
 
-- [Q-learning Agent for CartPole](https://github.com/mennosmit-dev/AI-Engineer-Certificate/blob/main/03_Deep_Learning_with_Keras_and_TensorFlow/q_learning_agent_cartpole) – Classic robotics simulation: balance control.  
-- [DQN CartPole v1](https://github.com/mennosmit-dev/AI-Engineer-Certificate/blob/main/03_Deep_Learning_with_Keras_and_TensorFlow/dqn_cartpolev1) – Deep RL for control tasks; **+400%** improvement over baseline.  
+- [Q-learning Agent for CartPole](https://github.com/mennosmit-dev/AI-Engineer-Certificate/blob/main/03_Deep_Learning_with_Keras_and_TensorFlow/q_learning_agent_cartpole.py) – Classic robotics simulation: balance control.  
+- [DQN CartPole v1](https://github.com/mennosmit-dev/AI-Engineer-Certificate/blob/main/03_Deep_Learning_with_Keras_and_TensorFlow/dqn_cartpolev1.py) – Deep RL for control tasks; **+400%** improvement over baseline.  
 
 ---
 
