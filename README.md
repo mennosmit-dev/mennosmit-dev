@@ -26,7 +26,7 @@ Applied CNNs, transfer learning, autoencoders, diffusion, and GANs to a range of
 
 - [Convolutional NN on MNIST](https://github.com/mennosmit-dev/AI-Engineer-Certificate/blob/main/02_Introduction_to_Deep_Learning__Neural_Networks_with_Keras/convolutionalnn_mnist) – Accuracy: **99.77%**.  
 - [Aviation Damage Detection](https://github.com/mennosmit-dev/AI-Engineer-Certificate/blob/main/02_Introduction_to_Deep_Learning__Neural_Networks_with_Keras/aviation_damage) – Fine-tuned VGG16 & ResNet; best val. accuracy: **68.8%**.  
-- [Fruit Classification](https://github.com/mennosmit-dev/AI-Engineer-Certificate/blob/main/03_Deep_Learning_with_Keras_and_TensorFlow/detecing_fruits.py) – Fine-tuned VGG16; accuracy improved from **58% → 90.05%**.  
+- [Fruit Classification](https://github.com/mennosmit-dev/AI-Engineer-Certificate/blob/main/03_Deep_Learning_with_Keras_and_TensorFlow/detecting_fruits.py) – Fine-tuned VGG16; accuracy improved from **58% → 90.05%**.  
 - [Trash Sorting](https://github.com/mennosmit-dev/AI-Engineer-Certificate/blob/main/03_Deep_Learning_with_Keras_and_TensorFlow/trash_sorting.py) – Organic vs recyclable classification; accuracy **84.9% → 92.19%**.  
 - [Diffusion Denoising](https://github.com/mennosmit-dev/AI-Engineer-Certificate/blob/main/03_Deep_Learning_with_Keras_and_TensorFlow/diffusion_denoise.py) – Reduced cross-entropy loss **0.204 → 0.0996**.  
 - [Concrete Crack Detection](https://github.com/mennosmit-dev/AI-Engineer-Certificate/blob/main/06_AI_Capstone_Project_with_Deep_Learning/concrete_vgg16.py) – Modified VGG16 to detect cracks invisible to the human eye.
