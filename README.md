@@ -44,7 +44,7 @@ From custom-built GPTs and BERT models to LangChain RAG systems powering practic
 - [Retriever-Augmented QA (HR Policies)](https://github.com/mennosmit-dev/AI-Engineer-Certificate/blob/main/12_Fundamentals_of_AI_Agents_Using_RAG_and_LangChain/rag_hr_policy_qa.py) – RAG pipeline with DPR & GPT-2; query resolution time cut by **70%**.  
 - [RAG Song Filter](https://github.com/mennosmit-dev/AI-Engineer-Certificate/blob/main/12_Fundamentals_of_AI_Agents_Using_RAG_and_LangChain/rag_song_filter.py) – Automated child-safe content moderation for social media.  
 - [QA Bot with LangChain](https://github.com/mennosmit-dev/AI-Engineer-Certificate/blob/main/13_Project_Generative_AI_Applications_with_RAG_and_LangChain/qa_bot_langchain.py) – Answering queries from PDFs using embeddings & retrievers. Accuracy +**45%**.  
-- [RAG Research Assistant (Final Project)](https://github.com/mennosmit-dev/AI-Engineer-Certificate/blob/main/13_Project_Generative_AI_Applications_with_RAG_and_LangChain/rag_research_assistant.py) – Summarizing/querying scientific papers in real time. Efficiency +**65%**. Graded **92/100%**.
+- [RAG Research Assistant (Final Project)](https://github.com/mennosmit-dev/AI-Engineer-Certificate/blob/main/13_Project_Generative_AI_Applications_with_RAG_and_LangChain/README.md) – Summarizing/querying scientific papers in real time. Efficiency +**65%**. Graded **92/100%**.
 
 ---
 
