@@ -24,7 +24,7 @@ Explored classical control problems and advanced reinforcement learning for alig
 ### 🖼️ Computer Vision
 Applied CNNs, transfer learning, autoencoders, diffusion, and GANs to a range of real-world problems.
 
-- [Convolutional NN on MNIST](https://github.com/mennosmit-dev/AI-Engineer-Certificate/blob/main/02_Introduction_to_Neural_Networks/convolutionalnn_mnist.py) – Accuracy: **99.77%**.  
+- [Convolutional NN on MNIST](https://github.com/mennosmit-dev/AI-Engineer-Certificate/blob/main/02_Introduction_to_Neural_Networks/convolutionalnn_mnist) – Accuracy: **99.77%**.  
 - [Aviation Damage Detection](https://github.com/mennosmit-dev/AI-Engineer-Certificate/blob/main/02_Introduction_to_Neural_Networks/aviation_damage.py) – Fine-tuned VGG16 & ResNet; best val. accuracy: **68.8%**.  
 - [Fruit Classification](https://github.com/mennosmit-dev/AI-Engineer-Certificate/blob/main/03_Deep_Learning_with_Keras_and_TensorFlow/detecing_fruits.py) – Fine-tuned VGG16; accuracy improved from **58% → 90.05%**.  
 - [Trash Sorting](https://github.com/mennosmit-dev/AI-Engineer-Certificate/blob/main/03_Deep_Learning_with_Keras_and_TensorFlow/trash_sorting.py) – Organic vs recyclable classification; accuracy **84.9% → 92.19%**.  
