@@ -59,11 +59,11 @@ Explored robotics-style control tasks via reinforcement learning, applying algor
 ### 📈 Machine Learning
 Built strong foundations in classical ML: regression, trees, ensembles, clustering, and econometric modelling.
 
-- [Random Forest vs. XGBoost (Housing Prices)](https://github.com/mennosmit-dev/AI-Engineer-Certificate/blob/main/01_Machine_Learning_with_Python/random__forests__xgboost) – RF MSE: **0.2556**, XGBoost MSE: **0.2226**.  
-- [Decision Trees & SVM (Fraud Detection)](https://github.com/mennosmit-dev/AI-Engineer-Certificate/blob/main/01_Machine_Learning_with_Python/decision_tree_svm_ccfraud) – ROC-AUC with SVM: **0.986**.  
-- [Evaluating Classification Models (Tumors)](https://github.com/mennosmit-dev/AI-Engineer-Certificate/blob/main/01_Machine_Learning_with_Python/evaluating_classification_models) – KNN accuracy improved **0.926 → 0.971**; f1-score **0.93 → 0.97** with SVM.  
-- [Titanic Survival Prediction](https://github.com/mennosmit-dev/AI-Engineer-Certificate/blob/main/01_Machine_Learning_with_Python/practice_project) – Logistic regression outperformed Random Forest (Acc: **0.83 vs 0.82**).  
-- [Rainfall Prediction (Final Project)](https://github.com/mennosmit-dev/AI-Engineer-Certificate/blob/main/01_Machine_Learning_with_Python/finalproject_ausweather_) – Kaggle dataset. Random Forest accuracy: **83%**.  
+- [Random Forest vs. XGBoost (Housing Prices)](https://github.com/mennosmit-dev/AI-Engineer-Certificate/blob/main/01_Machine_Learning_with_Python/random__forests__xgboost.py) – RF MSE: **0.2556**, XGBoost MSE: **0.2226**.  
+- [Decision Trees & SVM (Fraud Detection)](https://github.com/mennosmit-dev/AI-Engineer-Certificate/blob/main/01_Machine_Learning_with_Python/decision_tree_svm_ccfraud.py) – ROC-AUC with SVM: **0.986**.  
+- [Evaluating Classification Models (Tumors)](https://github.com/mennosmit-dev/AI-Engineer-Certificate/blob/main/01_Machine_Learning_with_Python/evaluating_classification_models.py) – KNN accuracy improved **0.926 → 0.971**; f1-score **0.93 → 0.97** with SVM.  
+- [Titanic Survival Prediction](https://github.com/mennosmit-dev/AI-Engineer-Certificate/blob/main/01_Machine_Learning_with_Python/practice_project.py) – Logistic regression outperformed Random Forest (Acc: **0.83 vs 0.82**).  
+- [Rainfall Prediction (Final Project)](https://github.com/mennosmit-dev/AI-Engineer-Certificate/blob/main/01_Machine_Learning_with_Python/finalproject_ausweather_.py) – Kaggle dataset. Random Forest accuracy: **83%**.  
 - [Egalitarian Lasso for Group Forecasting](https://github.com/mennosmit-dev/Econometric_Modelling/tree/main/Egalitarian_Lasso) – Multi-step GDP forecasting with penalized regressions (Lasso, Ridge, ElasticNet), custom egalitarian weighting, and Diebold-Mariano test.  
 - [Income Prediction (Random Forest)](https://github.com/mennosmit-dev/Econometric_Modelling/tree/main/IncomePredictingRandomForest) – ML pipeline for predicting income levels. Feature selection, hyperparameter tuning, nested cross-validation.  
 - [Forecasting with Bridge & MIDAS Models](https://github.com/mennosmit-dev/Econometric_Modelling/tree/main/Thesis_Nowcast) – Time-series forecasting with Bridge regression and MIDAS. Hyperparameter tuning & error analysis.  
