@@ -36,10 +36,10 @@ Applied CNNs, transfer learning, autoencoders, diffusion, and GANs to a range of
 From custom-built GPTs and BERT models to LangChain RAG systems powering practical assistants.
 
 - [Seq2Seq Transformer (EN→ES)](https://github.com/mennosmit-dev/AI-Engineer-Certificate/blob/main/02_Introduction_to_Deep_Learning__Neural_Networks_with_Keras/transformer_seq2seq_translation) – Translation model with **100% accuracy** on small benchmark.  
-- [Shakespeare Transformer](https://github.com/mennosmit-dev/AI-Engineer-Certificate/blob/main/03_Deep_Learning_with_Keras_and_TensorFlow/shakespeare_transformer.py) – Generated realistic Shakespeare-style sonnets.  
 - [Custom GPT Text Generator](https://github.com/mennosmit-dev/AI-Engineer-Certificate/blob/main/09_Generative_AI_Language_Modeling_with_Transformers/gpt_text_generator.py) – Small-scale GPT rivaling Hugging Face GPT-2 on toy tasks.  
 - [Baby BERT](https://github.com/mennosmit-dev/AI-Engineer-Certificate/blob/main/09_Generative_AI_Language_Modeling_with_Transformers/baby_bert.py) – Demonstrated NSP & MLM training on small datasets.  
-- [LoRA Sentiment Analysis](https://github.com/mennosmit-dev/AI-Engineer-Certificate/blob/main/10_Generative_AI_Engineering_and_Fine-Tuning_Transformers/lora_sentiment_analysis.py) – Fine-tuned IMDb sentiment classifier to **92% accuracy**.  
+- [LoRA Sentiment Analysis](https://github.com/mennosmit-dev/AI-Engineer-Certificate/blob/main/10_Generative_AI_Engineering_and_Fine-Tuning_Transformers/lora_sentiment_analysis.py) – Fine-tuned IMDb sentiment classifier to **92% accuracy**.
+- [Shakespeare Transformer](https://github.com/mennosmit-dev/AI-Engineer-Certificate/blob/main/03_Deep_Learning_with_Keras_and_TensorFlow/shakespeare_transformer.py) – Generated realistic Shakespeare-style sonnets.  
 - [Retriever-Augmented QA (HR Policies)](https://github.com/mennosmit-dev/AI-Engineer-Certificate/blob/main/12_Fundamentals_of_AI_Agents_Using_RAG_and_LangChain/rag_hr_policy_qa.py) – RAG pipeline with DPR & GPT-2; query resolution time cut by **70%**.  
 - [RAG Song Filter](https://github.com/mennosmit-dev/AI-Engineer-Certificate/blob/main/12_Fundamentals_of_AI_Agents_Using_RAG_and_LangChain/rag_song_filter.py) – Automated child-safe content moderation for social media.  
 - [QA Bot with LangChain](https://github.com/mennosmit-dev/AI-Engineer-Certificate/blob/main/13_Project_Generative_AI_Applications_with_RAG_and_LangChain/qa_bot_langchain.py) – Answering queries from PDFs using embeddings & retrievers. Accuracy +**45%**.  
