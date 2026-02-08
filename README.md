@@ -13,7 +13,7 @@ dedicated README file, but if you have any questions or suggestions don't hesita
 
 ### 🎮 Reinforcement Learning
 Explored classical control problems and advanced reinforcement learning for aligning LLMs.
-- Currently writing my MSc. thesis on the application of RL (PPO/SAC/DDPG) to the long-term portfolio management optimisation problem. After finishing the research will be using it for myself in production with weekly automatic data extraction, transformation, and loading (ETL); bi-annual model training; automatic portfolio investment and monitoring (through various APIs).
+- Currently writing my MSc. thesis on the application of RL (PPO/SAC/DDPG) to the long-term portfolio management optimisation problem (creative feature engineering: additional extern datasets, CNN-embedding). After finishing the research will be using it for myself in production with weekly automatic data extraction, transformation, and loading (ETL); bi-annual model training; automatic portfolio investment and monitoring (through various APIs).
 - [RLHF with PPO](https://github.com/mennosmit-dev/AI-Engineer-Certificate/blob/main/11_Generative_AI_Advance_Fine-Tuning_for_LLMs/rlhf_ppo_sentiment.py) – Shaped GPT-2 behavior (“Happy” vs “Pessimistic”) using PPO. Achieved **85% sentiment alignment**.  
 - [DPO for LLM Alignment](https://github.com/mennosmit-dev/AI-Engineer-Certificate/blob/main/11_Generative_AI_Advance_Fine-Tuning_for_LLMs/dpo_llm_alignment.py) – Direct Preference Optimization improved alignment to human preferences.
 - [Q-learning Agent for CartPole](https://github.com/mennosmit-dev/AI-Engineer-Certificate/blob/main/03_Deep_Learning_with_Keras_and_TensorFlow/q_learning_agent_cartpole.py) – Baseline RL agent; achieved **9 steps** without failure.  
