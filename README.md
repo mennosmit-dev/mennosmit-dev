@@ -3,7 +3,7 @@
 Applied Machine Learning Engineer with a strong data science and quantitative modeling background.  
 MSc Econometrics | Reinforcement Learning | MLOps  
 
-I build end-to-end ML systems — from modeling and experimentation to automated pipelines and deployment.
+I build end-to-end ML systems, from modeling and experimentation to automated pipelines and deployment.
 
 ---
 
