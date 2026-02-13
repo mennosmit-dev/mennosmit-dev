@@ -1,71 +1,84 @@
 # 👋 Hi, I'm Menno Smit
-<sub>I am a dedicated ML engineer on a mission to make the world more efficient. Feel free to 
-contact me to if you have any challenges you need solved or if you have ideas you want 
-collaboration on.
----
 
-## 📊 A few interesting AI/ML projects:
-Over the years I have worked on many projects (200+). I have included a few relevant ones here, but feel 
-free to browse the repositories if you are interested in the details. For each file I wrote a 
-dedicated README file, but if you have any questions or suggestions don't hesitate to reach out.
+Applied Machine Learning Engineer with a strong data science and quantitative modeling background.  
+MSc Econometrics | Reinforcement Learning | MLOps  
+
+I build end-to-end ML systems — from modeling and experimentation to automated pipelines and deployment.
 
 ---
 
-### 🎮 Reinforcement Learning
-Explored classical control problems and advanced reinforcement learning for aligning LLMs.
-- Currently writing my MSc. thesis on the application of RL (PPO/SAC/DDPG) to the long-term portfolio management optimisation problem (creative feature engineering: additional extern datasets, CNN-embedding). After finishing the research will be using it for myself in production with weekly automatic data extraction, transformation, and loading (ETL); bi-annual model training; automatic portfolio investment and monitoring (through various APIs).
-- [RLHF with PPO](https://github.com/mennosmit-dev/AI-Engineer-Certificate/blob/main/11_Generative_AI_Advance_Fine-Tuning_for_LLMs/rlhf_ppo_sentiment.py) – Shaped GPT-2 behavior (“Happy” vs “Pessimistic”) using PPO. Achieved **85% sentiment alignment**.  
-- [DPO for LLM Alignment](https://github.com/mennosmit-dev/AI-Engineer-Certificate/blob/main/11_Generative_AI_Advance_Fine-Tuning_for_LLMs/dpo_llm_alignment.py) – Direct Preference Optimization improved alignment to human preferences.
-- [Q-learning Agent for CartPole](https://github.com/mennosmit-dev/AI-Engineer-Certificate/blob/main/03_Deep_Learning_with_Keras_and_TensorFlow/q_learning_agent_cartpole.py) – Baseline RL agent; achieved **9 steps** without failure.  
-- [DQN CartPole v1](https://github.com/mennosmit-dev/AI-Engineer-Certificate/blob/main/03_Deep_Learning_with_Keras_and_TensorFlow/dqn_cartpolev1.py) – Deep Q-Network with replay buffer; improved to **43 steps** (~**+400%**).  
+## 🚀 Flagship Project
+
+### Production-Grade Reinforcement Learning Portfolio System
+
+Reinforcement learning framework for long-horizon ETF allocation (based on my MSc thesis), currently being deployed as a fully automated pipeline.
+
+• Weekly automated ETL & feature engineering  
+• Portfolio prediction & dynamic position sizing  
+• Performance & risk monitoring  
+• Bi-annual retraining to address concept drift  
+• API-integrated execution & tracking  
+
+Tech: PyTorch, Docker, MLflow, time-series modeling, automated workflows
 
 ---
 
-### 🖼️ Computer Vision
-Applied CNNs, transfer learning, autoencoders, diffusion, and GANs to a range of real-world problems.
+## 🧠 Selected Projects
 
-- [Aviation Damage Detection](https://github.com/mennosmit-dev/AI-Engineer-Certificate/blob/main/02_Introduction_to_Deep_Learning__Neural_Networks_with_Keras/aviation_damage) – Fine-tuned VGG16 & ResNet; best val. accuracy: **68.8%**.  
-- [Fruit Classification](https://github.com/mennosmit-dev/AI-Engineer-Certificate/blob/main/03_Deep_Learning_with_Keras_and_TensorFlow/detecting_fruits.py) – Fine-tuned VGG16; accuracy improved from **58% → 90.05%**.  
-- [Trash Sorting](https://github.com/mennosmit-dev/AI-Engineer-Certificate/blob/main/03_Deep_Learning_with_Keras_and_TensorFlow/trash_sorting.py) – Organic vs recyclable classification; accuracy **84.9% → 92.19%**.  
-- [Diffusion Denoising](https://github.com/mennosmit-dev/AI-Engineer-Certificate/blob/main/03_Deep_Learning_with_Keras_and_TensorFlow/diffusion_denoise.py) – Reduced cross-entropy loss **0.204 → 0.0996**.  
-- [Concrete Crack Detection](https://github.com/mennosmit-dev/AI-Engineer-Certificate/blob/main/06_AI_Capstone_Project_with_Deep_Learning/concrete_vgg16.py) – Modified VGG16 to detect cracks invisible to the human eye.
-- [Convolutional NN on MNIST](https://github.com/mennosmit-dev/AI-Engineer-Certificate/blob/main/02_Introduction_to_Deep_Learning__Neural_Networks_with_Keras/convolutionalnn_mnist) – Accuracy: **99.77%**.  
----
+### 🔹 Reinforcement Learning & Alignment
 
-### 🧠 AI Agents & Transformers
-From custom-built GPTs and BERT models to LangChain RAG systems powering practical assistants.
-
-- [Seq2Seq Transformer (EN→ES)](https://github.com/mennosmit-dev/AI-Engineer-Certificate/blob/main/02_Introduction_to_Deep_Learning__Neural_Networks_with_Keras/transformer_seq2seq_translation) – Translation model with **100% accuracy** on small benchmark.  
-- [Custom GPT Text Generator](https://github.com/mennosmit-dev/AI-Engineer-Certificate/blob/main/09_Generative_AI_Language_Modeling_with_Transformers/gpt_text_generator.py) – Small-scale GPT rivaling Hugging Face GPT-2 on toy tasks.  
-- [Baby BERT](https://github.com/mennosmit-dev/AI-Engineer-Certificate/blob/main/09_Generative_AI_Language_Modeling_with_Transformers/baby_bert.py) – Demonstrated NSP & MLM training on small datasets.  
-- [LoRA Sentiment Analysis](https://github.com/mennosmit-dev/AI-Engineer-Certificate/blob/main/10_Generative_AI_Engineering_and_Fine-Tuning_Transformers/lora_sentiment_analysis.py) – Fine-tuned IMDb sentiment classifier to **92% accuracy**.
-- [Shakespeare Transformer](https://github.com/mennosmit-dev/AI-Engineer-Certificate/blob/main/03_Deep_Learning_with_Keras_and_TensorFlow/shakespeare_transformer.py) – Generated realistic Shakespeare-style sonnets.  
-- [Retriever-Augmented QA (HR Policies)](https://github.com/mennosmit-dev/AI-Engineer-Certificate/blob/main/12_Fundamentals_of_AI_Agents_Using_RAG_and_LangChain/rag_hr_policy_qa.py) – RAG pipeline with DPR & GPT-2; query resolution time cut by **70%**.  
-- [RAG Song Filter](https://github.com/mennosmit-dev/AI-Engineer-Certificate/blob/main/12_Fundamentals_of_AI_Agents_Using_RAG_and_LangChain/rag_song_filter.py) – Automated child-safe content moderation for social media.  
-- [QA Bot with LangChain](https://github.com/mennosmit-dev/AI-Engineer-Certificate/blob/main/13_Project_Generative_AI_Applications_with_RAG_and_LangChain/qa_bot_langchain.py) – Answering queries from PDFs using embeddings & retrievers. Accuracy +**45%**.  
-- [RAG Research Assistant (Final Project)](https://github.com/mennosmit-dev/AI-Engineer-Certificate/blob/main/13_Project_Generative_AI_Applications_with_RAG_and_LangChain/README.md) – Summarizing/querying scientific papers in real time. Efficiency +**65%**. Graded **92/100%**.
+- **RLHF with PPO** – 85% sentiment alignment using preference optimization  
+- **DQN Control Agent (CartPole)** – 4× performance improvement with replay buffer  
+- **DPO for LLM Alignment** – Direct preference optimization for human-aligned outputs  
 
 ---
 
-### 🤖 Robotics
-Explored robotics-style control tasks via reinforcement learning, applying algorithms to dynamic environments.
+### 🔹 LLMs & RAG Systems
 
-- [Q-learning Agent for CartPole](https://github.com/mennosmit-dev/AI-Engineer-Certificate/blob/main/03_Deep_Learning_with_Keras_and_TensorFlow/q_learning_agent_cartpole.py) – Classic robotics simulation: balance control.  
-- [DQN CartPole v1](https://github.com/mennosmit-dev/AI-Engineer-Certificate/blob/main/03_Deep_Learning_with_Keras_and_TensorFlow/dqn_cartpolev1.py) – Deep RL for control tasks; **+400%** improvement over baseline.  
+- **Retriever-Augmented QA (HR Policies)** – Reduced query resolution time by 70%  
+- **RAG Research Assistant** – Real-time scientific paper querying (+65% efficiency)  
+- **LoRA Fine-Tuning** – IMDb sentiment classifier to 92% accuracy  
+
+Tech: Hugging Face, LangChain, transformers, embeddings, vector retrieval  
 
 ---
 
-### 📈 Machine Learning
-Built strong foundations in classical ML: regression, trees, ensembles, clustering, and econometric modelling.
-- [Predicting Temperature (Utilising MLflow to track experiments)](https://github.com/mennosmit-dev/Machine-Learning-Engineer---Career-Track/blob/main/07_Predicting_Temperature_in_London/temperature_prediction.py) – OLS RMSE: **0.88**, Decison Tree RMSE: **0.86** Random Forest RMSE: **1.01**.
-- [Finding relevant articles on wikipedia (Utilising Spark instance on EMR with backing cluster)](https://github.com/mennosmit-dev/AWS-ML-Engineer-Associate-MLA-C01/blob/main/03_Data_Transformation_Integrity_Feature_Engineering/pyspark_wikipedia_tfidf_search.py) – Got very reasonable working model for a variety of different input words.
-- [Random Forest vs. XGBoost (Housing Prices)](https://github.com/mennosmit-dev/AI-Engineer-Certificate/blob/main/01_Machine_Learning_with_Python/random__forests__xgboost.py) – RF MSE: **0.2556**, XGBoost MSE: **0.2226**.  
-- [Decision Trees & SVM (Fraud Detection)](https://github.com/mennosmit-dev/AI-Engineer-Certificate/blob/main/01_Machine_Learning_with_Python/decision_tree_svm_ccfraud.py) – ROC-AUC with SVM: **0.986**.  
-- [Evaluating Classification Models (Tumors)](https://github.com/mennosmit-dev/AI-Engineer-Certificate/blob/main/01_Machine_Learning_with_Python/evaluating_classification_models.py) – KNN accuracy improved **0.926 → 0.971**; f1-score **0.93 → 0.97** with SVM.  
-- [Titanic Survival Prediction](https://github.com/mennosmit-dev/AI-Engineer-Certificate/blob/main/01_Machine_Learning_with_Python/practice_project.py) – Logistic regression outperformed Random Forest (Acc: **0.83 vs 0.82**).  
-- [Rainfall Prediction (Final Project)](https://github.com/mennosmit-dev/AI-Engineer-Certificate/blob/main/01_Machine_Learning_with_Python/finalproject_ausweather_.py) – Kaggle dataset. Random Forest accuracy: **83%**.  
-- [Egalitarian Lasso for Group Forecasting](https://github.com/mennosmit-dev/Econometric_Modelling/tree/main/Egalitarian_Lasso) – Multi-step GDP forecasting with penalized regressions (Lasso, Ridge, ElasticNet), custom egalitarian weighting, and Diebold-Mariano test.  
-- [Income Prediction (Random Forest)](https://github.com/mennosmit-dev/Econometric_Modelling/tree/main/IncomePredictingRandomForest) – ML pipeline for predicting income levels. Feature selection, hyperparameter tuning, nested cross-validation.  
-- [Forecasting with Bridge & MIDAS Models](https://github.com/mennosmit-dev/Econometric_Modelling/tree/main/Thesis_Nowcast) – Time-series forecasting with Bridge regression and MIDAS. Hyperparameter tuning & error analysis.  
-- [Cryptocurrency Trading Strategy](https://github.com/mennosmit-dev/Econometric_Modelling/tree/main/Seminar_Cryptocurrency_Modelling) – Residual-based long/short strategy under supervision of Maverick Derivatives. Managed exposure, tracked PnL, and visualized profitability.  
-- 🏠 [Utilising CNN and CV to Forecast Housing Prices](https://github.com/mennosmit-dev/Econometric_Modelling/blob/main/discussion_paper.pdf) – Led an academic discussion on a paper combining **web scraping, NLP, CV, and explainable AI (SHAP)** features from rental listings with Random Forests to predict housing prices in Rotterdam.
+### 🔹 Quantitative Modeling & Forecasting
+
+- **Cryptocurrency Forecasting & Trading Strategy**  
+  Residual-based long/short strategy with exposure management, PnL tracking, and diagnostics.  
+
+- **Egalitarian Lasso for Multi-Step Forecasting**  
+  Penalized regressions (Lasso/Ridge/ElasticNet) with Diebold-Mariano testing.  
+
+- **Time-Series Nowcasting (Bridge & MIDAS Models)**  
+  Hyperparameter tuning and forecast evaluation.
+
+---
+
+## ⚙️ Core Skills
+
+**Machine Learning**
+- Deep Learning (PyTorch, TensorFlow)
+- Reinforcement Learning (DQN, PPO, DPO)
+- Transformers & RAG
+- Time Series & Forecasting
+
+**MLOps & Deployment**
+- Docker, MLflow, DVC
+- ETL pipelines
+- Model monitoring
+- CI/CD fundamentals
+- AWS (SageMaker – in progress)
+
+**Programming**
+- Python (primary)
+- SQL
+- Java, R, MATLAB
+
+---
+
+## 📫 Connect
+
+LinkedIn: linkedin.com/in/menno-smit-249b49222  
+Email: mennosjoerd@gmail.com
