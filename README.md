@@ -69,7 +69,7 @@ Tech: Hugging Face, LangChain, transformers, embeddings, vector retrieval
 - ETL pipelines
 - Model monitoring
 - CI/CD fundamentals
-- AWS (SageMaker – in progress)
+- AWS (SageMaker, in progress)
 
 **Programming**
 - Python (primary)
