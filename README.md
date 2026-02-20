@@ -1,84 +1,88 @@
 # 👋 Hi, I'm Menno Smit
 
-Applied Machine Learning Engineer with a strong data science and quantitative modeling background.  
-MSc Econometrics | Reinforcement Learning | MLOps  
+Applied Machine Learning Engineer with a background in Econometrics and Data Science, focused on building **end-to-end machine learning systems** — from quantitative modeling and experimentation to automated pipelines and production-oriented deployment.
 
-I build end-to-end ML systems, from modeling and experimentation to automated pipelines and deployment.
+**Interests:** Reinforcement Learning • Applied ML • Quantitative Modeling • MLOps  
+**Currently:** Developing production ML systems and scalable experimentation workflows.
 
 ---
 
-## 🚀 Flagship Project
+## 🚀 Flagship Project — Production Reinforcement Learning System
 
-### Production-Grade Reinforcement Learning Portfolio System
+### Long-Horizon ETF Portfolio Allocation
 
-Reinforcement learning framework for long-horizon ETF allocation (based on my MSc thesis), currently being deployed as a fully automated pipeline.
+A production-oriented reinforcement learning framework for strategic asset allocation, developed as part of my MSc thesis. The project bridges quantitative finance research with real-world ML engineering practices.
 
-• Weekly automated ETL & feature engineering  
-• Portfolio prediction & dynamic position sizing  
-• Performance & risk monitoring  
-• Bi-annual retraining to address concept drift  
-• API-integrated execution & tracking  
+**System capabilities**
+- Automated ETL and feature engineering pipelines
+- RL-based portfolio decision modeling
+- Dynamic position sizing and risk-aware allocation
+- Performance monitoring and diagnostics
+- Scheduled retraining to mitigate concept drift
+- API-integrated tracking and execution workflows
 
-Tech: PyTorch, Docker, MLflow, time-series modeling, automated workflows
+**Tech Stack**  
+PyTorch • Docker • MLflow • Time-series modeling • Automated workflows
 
 ---
 
 ## 🧠 Selected Projects
 
 ### 🔹 Reinforcement Learning & Alignment
+Applied reinforcement learning for control, optimization, and preference alignment.
 
-- **RLHF with PPO** – 85% sentiment alignment using preference optimization  
-- **DQN Control Agent (CartPole)** – 4× performance improvement with replay buffer  
-- **DPO for LLM Alignment** – Direct preference optimization for human-aligned outputs  
+- **RLHF with PPO** — Achieved ~85% sentiment alignment via preference optimization
+- **DQN Control Agent (CartPole)** — 4× performance improvement using replay buffers and stabilized training
+- **Direct Preference Optimization (DPO)** — Human-aligned LLM output optimization
 
 ---
 
-### 🔹 LLMs & RAG Systems
+### 🔹 LLMs & Retrieval-Augmented Systems
+Practical NLP systems focused on information retrieval and real-world usability.
 
-- **Retriever-Augmented QA (HR Policies)** – Reduced query resolution time by 70%  
-- **RAG Research Assistant** – Real-time scientific paper querying (+65% efficiency)  
-- **LoRA Fine-Tuning** – IMDb sentiment classifier to 92% accuracy  
+- **Retriever-Augmented QA (HR Policies)** — Reduced query resolution time by ~70%
+- **RAG Research Assistant** — Accelerated scientific literature querying (+65% efficiency)
+- **LoRA Fine-Tuning** — IMDb sentiment classifier reaching 92% accuracy
 
-Tech: Hugging Face, LangChain, transformers, embeddings, vector retrieval  
+**Tech:** Hugging Face • LangChain • Transformers • Embeddings • Vector Retrieval
 
 ---
 
 ### 🔹 Quantitative Modeling & Forecasting
+Econometrics-driven machine learning applied to financial and macroeconomic data.
 
 - **Cryptocurrency Forecasting & Trading Strategy**  
-  Residual-based long/short strategy with exposure management, PnL tracking, and diagnostics.  
+  Residual-based long/short strategy with exposure control, PnL tracking, and model diagnostics.
 
-- **Egalitarian Lasso for Multi-Step Forecasting**  
-  Penalized regressions (Lasso/Ridge/ElasticNet) with Diebold-Mariano testing.  
+- **Egalitarian Lasso Forecasting**  
+  Multi-step forecasting using penalized regression with Diebold–Mariano evaluation.
 
-- **Time-Series Nowcasting (Bridge & MIDAS Models)**  
-  Hyperparameter tuning and forecast evaluation.
+- **Time-Series Nowcasting**  
+  Bridge and MIDAS models with hyperparameter tuning and forecast comparison.
 
 ---
 
-## ⚙️ Core Skills
+## ⚙️ Technical Skills
 
-**Machine Learning**
+### Machine Learning
 - Deep Learning (PyTorch, TensorFlow)
 - Reinforcement Learning (DQN, PPO, DPO)
-- Transformers & RAG
+- Transformers & RAG systems
 - Time Series & Forecasting
 
-**MLOps & Deployment**
+### MLOps & Engineering
 - Docker, MLflow, DVC
-- ETL pipelines
-- Model monitoring
+- Experiment tracking & reproducibility
+- ETL pipelines and model monitoring
 - CI/CD fundamentals
-- AWS (SageMaker, in progress)
+- AWS (SageMaker — in progress)
 
-**Programming**
-- Python (primary)
-- SQL
-- Java, R, MATLAB
+### Programming
+Python (primary) • SQL • Java • R • MATLAB
 
 ---
 
 ## 📫 Connect
 
-LinkedIn: linkedin.com/in/menno-smit-249b49222  
-Email: mennosjoerd@gmail.com
+- LinkedIn: https://linkedin.com/in/menno-smit-249b49222  
+- Email: mennosjoerd@gmail.com
