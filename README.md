@@ -75,7 +75,7 @@ Econometrics-driven machine learning applied to financial and macroeconomic data
 - Experiment tracking & reproducibility
 - ETL pipelines and model monitoring
 - CI/CD fundamentals
-- AWS (SageMaker — in progress)
+- AWS (SageMaker, in progress)
 
 ### Programming
 Python (primary) • SQL • Java • R • MATLAB
