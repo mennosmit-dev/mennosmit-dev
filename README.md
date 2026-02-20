@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Menno Smit
 
-Applied Machine Learning Engineer with a background in Econometrics and Data Science, focused on building **end-to-end machine learning systems** — from quantitative modeling and experimentation to automated pipelines and production-oriented deployment.
+Applied Machine Learning Engineer with a background in Econometrics and Data Science, focused on building **end-to-end machine learning systems**, from quantitative modeling and experimentation to automated pipelines and production-oriented deployment.
 
 **Interests:** Reinforcement Learning • Applied ML • Quantitative Modeling • MLOps  
 **Currently:** Developing production ML systems and scalable experimentation workflows.
