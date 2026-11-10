@@ -1,88 +1,31 @@
-# 👋 Hi, I'm Menno Smit
+# Menno Smit
 
-Applied Machine Learning Engineer with a background in Econometrics and Data Science, focused on building **end-to-end machine learning systems**, from quantitative modeling and experimentation to automated pipelines and production-oriented deployment.
+AI engineer with an econometrics backbone. I want to know why a model works, down to the statistics and the matrix algebra, and then I want to build it and get it into production where people use it.
 
-**Interests:** Reinforcement Learning • Applied ML • Quantitative Modeling • MLOps  
-**Currently:** Developing production ML systems and scalable experimentation workflows.
+**Now:** Data & AI Engineer (internship) at &samhoud, building AI tools for colleagues with Copilot Studio, Power Automate, the Microsoft Graph API and Python.
+**Next:** a junior AI or ML engineer role from April 2027.
 
----
+## Selected work
 
-## 🚀 Flagship Project — Production Reinforcement Learning System
+| Project | What I did | Result |
+| --- | --- | --- |
+| **RL for long-horizon ETF allocation** (MSc thesis, 8.4) | Reinforcement-learning agent for ETF allocation, taken further into a system on AWS (ECS, spot instances) | Beat equal weight, the strongest benchmark, by 75% out of sample. Public version in preparation |
+| [**AI Cup 2026**](https://github.com/mennosmit-dev/Kaggle-participations/tree/main/AI-Cup-2026) | Ensemble of boosted trees and sequence models; designed RadarBird, an active-learning set-up where experts only label what the model is unsure about. Team of two | 9th of 95 teams |
+| **Teams custom dictionary** (&samhoud) | Tested four versions against a fixed regression set and error taxonomy | Recognition of company jargon from about 23% to 69%, in production. Code not public |
+| **Claude &times; Microsoft 365** (own setup) | I build in Claude Code while data and communication stay in Microsoft. Hooks on both sides keep them in sync: anonymisation on the way to Claude, Work IQ context back, Power Automate tasks to To Do | 43 tests, written first. Private for now |
+| [**Econometric modelling**](https://github.com/mennosmit-dev/Econometric_Modelling) | Kernel PCA nowcasting (BSc thesis, 8.7), Egalitarian Lasso forecasting, state-space models, risk and portfolio simulation | Coursework and theses, Python, Java and MATLAB |
+| [**Kaggle**](https://github.com/mennosmit-dev/Kaggle-participations) | House prices: gradient-boosted trees, then a Lasso and MLP pipeline | Top 30% |
 
-### Long-Horizon ETF Portfolio Allocation
+## Learning in public
 
-A production-oriented reinforcement learning framework for strategic asset allocation, developed as part of my MSc thesis. The project bridges quantitative finance research with real-world ML engineering practices.
+- [IBM AI Engineering](https://github.com/mennosmit-dev/AI-Engineer-Certificate) (13 courses): deep learning, transformers, RAG, RLHF
+- [DataCamp Machine Learning Engineer](https://github.com/mennosmit-dev/Machine-Learning-Engineer---Career-Track): MLOps, MLflow, DVC, Docker, CI/CD
+- [AWS Certified Machine Learning Engineer, Associate](https://github.com/mennosmit-dev/AWS-ML-Engineer-Associate-MLA-C01): my study notes
 
-**System capabilities**
-- Automated ETL and feature engineering pipelines
-- RL-based portfolio decision modeling
-- Dynamic position sizing and risk-aware allocation
-- Performance monitoring and diagnostics
-- Scheduled retraining to mitigate concept drift
-- API-integrated tracking and execution workflows
+## Toolbox
 
-**Tech Stack**  
-PyTorch • Docker • MLflow • Time-series modeling • Automated workflows
+Python, PyTorch, scikit-learn, LightGBM, CatBoost, SQL, AWS, Docker, MLflow, Git, pytest, Claude Code, Copilot Studio, Power Automate, Graph API, JavaScript.
 
----
+## Contact
 
-## 🧠 Selected Projects
-
-### 🔹 Reinforcement Learning & Alignment
-Applied reinforcement learning for control, optimization, and preference alignment.
-
-- **RLHF with PPO** — Achieved ~85% sentiment alignment via preference optimization
-- **DQN Control Agent (CartPole)** — 4× performance improvement using replay buffers and stabilized training
-- **Direct Preference Optimization (DPO)** — Human-aligned LLM output optimization
-
----
-
-### 🔹 LLMs & Retrieval-Augmented Systems
-Practical NLP systems focused on information retrieval and real-world usability.
-
-- **Retriever-Augmented QA (HR Policies)** — Reduced query resolution time by ~70%
-- **RAG Research Assistant** — Accelerated scientific literature querying (+65% efficiency)
-- **LoRA Fine-Tuning** — IMDb sentiment classifier reaching 92% accuracy
-
-**Tech:** Hugging Face • LangChain • Transformers • Embeddings • Vector Retrieval
-
----
-
-### 🔹 Quantitative Modeling & Forecasting
-Econometrics-driven machine learning applied to financial and macroeconomic data.
-
-- **Cryptocurrency Forecasting & Trading Strategy**  
-  Residual-based long/short strategy with exposure control, PnL tracking, and model diagnostics.
-
-- **Egalitarian Lasso Forecasting**  
-  Multi-step forecasting using penalized regression with Diebold–Mariano evaluation.
-
-- **Time-Series Nowcasting**  
-  Bridge and MIDAS models with hyperparameter tuning and forecast comparison.
-
----
-
-## ⚙️ Technical Skills
-
-### Machine Learning
-- Deep Learning (PyTorch, TensorFlow)
-- Reinforcement Learning (DQN, PPO, DPO)
-- Transformers & RAG systems
-- Time Series & Forecasting
-
-### MLOps & Engineering
-- Docker, MLflow, DVC
-- Experiment tracking & reproducibility
-- ETL pipelines and model monitoring
-- CI/CD fundamentals
-- AWS (SageMaker, in progress)
-
-### Programming
-Python (primary) • SQL • Java • R • MATLAB
-
----
-
-## 📫 Connect
-
-- LinkedIn: https://linkedin.com/in/menno-smit-249b49222  
-- Email: mennosjoerd@gmail.com
+[LinkedIn](https://www.linkedin.com/in/contactmennosjoerd/) · mennosjoerd@gmail.com
